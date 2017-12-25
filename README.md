@@ -1,1 +1,1 @@
-This is Shane's girst git project!
+This is Shane's first git project!
